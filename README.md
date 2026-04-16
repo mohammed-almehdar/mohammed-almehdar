@@ -24,7 +24,27 @@ I am working towards becoming a professional cybersecurity specialist.
 🎯 Goals
 - Become a cybersecurity specialist  
 - Master penetration testing  
-- Work in the cybersecurity field  
+- Work in the cybersecurity field
+  
+---
+
+ 🚀 Projects
+
+ 🔐 Phishing Detector AI
+
+An AI-based phishing detection system using Machine Learning and Flask API.
+
+* Detect phishing messages using AI
+* Built with Flask API
+* Uses RandomForest Machine Learning model
+
+🛠️ Technologies:
+
+* Python
+* Flask
+* Scikit-learn
+
+🔗 Project Link: https://github.com/mohammed-almehdar/phishing-detector-ai
 
 ---
 
