@@ -1,16 +1,33 @@
-## Hi there 👋
+ Hi, I'm Mohammed Almehdar
 
-<!--
-**mohammed-almehdar/mohammed-almehdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student  
+🎓 Studying at REVA University, India  
+🌐 Interested in Network Security & Ethical Hacking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 About Me
+I am a cybersecurity student passionate about protecting systems and networks.  
+Currently learning networking fundamentals, penetration testing, and security concepts.  
+I am working towards becoming a professional cybersecurity specialist.
+
+---
+
+🛠️ Skills
+- Networking (CCST - Cisco)
+- Network Security
+- Penetration Testing Fundamentals
+- Linux Basics
+
+---
+
+🎯 Goals
+- Become a cybersecurity specialist  
+- Master penetration testing  
+- Work in the cybersecurity field  
+
+---
+
+📫 Contact Me
+- Email: mohammed.alwi77@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammed-almehdar-612a19283?utm_source=share_via&utm_content=profile&utm_medium=member_ios
